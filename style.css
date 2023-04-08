@@ -31,7 +31,7 @@ div.calculator {
 div.calculator div {
     height: 120px;
     width: 24%;
-    background-color: rgba(209, 209, 209, 0.795);
+    background-color: rgba(228, 228, 228, 0.61);
     border: 3px solid rgb(95, 95, 95);
     border-radius: 5%;
     cursor: pointer;
